@@ -1,6 +1,6 @@
 # 👥 Digital Twin
 
-**Digital Twin** is a machine learning-powered platform leveraging cough acoustics 🫁 for non-invasive, continuous respiratory disease screening.
+**Digital Twin** is a machine learning-powered platform leveraging cough acoustics for non-invasive, continuous respiratory disease screening.
 
 
 # VAPI Audio Analysis Client
